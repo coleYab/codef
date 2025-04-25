@@ -1,9 +1,7 @@
 # codef
-<<<<<<< HEAD
+----
 Codeforces contest starting file bootstrapper
-=======
 
-It is a silly project(lolz).
 **Boostrap your competitive programming contests with structured boilerplate code.**
 
 `codef` is a command-line tool designed to streamline the setup process for competitive programming contests, particularly for platforms like Codeforces. It automates the creation of well-organized directories and populates them with basic file templates for your preferred programming language, allowing you to focus on solving problems right away.
@@ -51,7 +49,7 @@ a2sv-weekly_contest/
     └── sol.py
 ```
 
-Each `.py` file will contain a basic Python template. 
+Each `.py` file will contain a basic Python template.
 
 ### Creating a contest for 4 problems using a C++ template:
 
@@ -85,10 +83,9 @@ codef help create
 
 ## Contributing
 
-This is my personal tool if you like it fork it then do whatever you want with it idk and also I will accept PR. 
+This is my personal tool if you like it fork it then do whatever you want with it idk and also I will accept PR.
 
 ## License
 
 This project is under MIT License.
 
->>>>>>> ad73aa5 (add: the project data)
