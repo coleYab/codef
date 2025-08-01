@@ -59,5 +59,5 @@ var createCmd = &cobra.Command{
 func init() {
 	rootCmd.AddCommand(createCmd)
 	rootCmd.PersistentFlags().StringVarP(&cfg.ContestLang, "lang", "l", "py", "Lanauge you wish to use for the contest.")
-	rootCmd.PersistentFlags().StringVarP(&cfg.TemplateDir, "path", "p", "/home/nba_yeabsira/.competitive/templates", "Where is the template")
+	rootCmd.PersistentFlags().StringVarP(&cfg.TemplateDir, "path", "p", "C:\Users\pc\.competitive\templates", "Where is the template")
 }
